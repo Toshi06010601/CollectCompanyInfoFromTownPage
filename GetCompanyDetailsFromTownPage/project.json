@@ -1,5 +1,5 @@
 {
-  "name": "GetCompanyDetailsFromTownPage_改",
+  "name": "GetCompanyDetailsFromTownPage",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
